@@ -1,0 +1,48 @@
+﻿Build started 15-Dec-13 6:55:20 PM.
+     1>Project "D:\Facultate\Anul III\Semestrul I\EGC\Teme\Tema 3\lab_gl_3_student\lab_gl_3.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\Facultate\ProgramFiles\Visual Studio 2012\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>d:\facultate\anul iii\semestrul i\egc\teme\tema 3\lab_gl_3_student\main.cpp(144): warning C4101: 'a' : unreferenced local variable
+     1>d:\facultate\anul iii\semestrul i\egc\teme\tema 3\lab_gl_3_student\main.cpp(144): warning C4101: 'b' : unreferenced local variable
+     1>d:\facultate\anul iii\semestrul i\egc\teme\tema 3\lab_gl_3_student\main.cpp(144): warning C4101: 'c' : unreferenced local variable
+     1>d:\facultate\anul iii\semestrul i\egc\teme\tema 3\lab_gl_3_student\main.cpp(171): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\facultate\anul iii\semestrul i\egc\teme\tema 3\lab_gl_3_student\main.cpp(265): warning C4305: '=' : truncation from 'double' to 'float'
+     1>d:\facultate\anul iii\semestrul i\egc\teme\tema 3\lab_gl_3_student\main.cpp(326): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\facultate\anul iii\semestrul i\egc\teme\tema 3\lab_gl_3_student\main.cpp(327): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\facultate\anul iii\semestrul i\egc\teme\tema 3\lab_gl_3_student\main.cpp(336): warning C4244: '-=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\facultate\anul iii\semestrul i\egc\teme\tema 3\lab_gl_3_student\main.cpp(337): warning C4244: '-=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\facultate\anul iii\semestrul i\egc\teme\tema 3\lab_gl_3_student\main.cpp(349): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\facultate\anul iii\semestrul i\egc\teme\tema 3\lab_gl_3_student\main.cpp(360): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\facultate\anul iii\semestrul i\egc\teme\tema 3\lab_gl_3_student\main.cpp(366): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\facultate\anul iii\semestrul i\egc\teme\tema 3\lab_gl_3_student\main.cpp(374): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\facultate\anul iii\semestrul i\egc\teme\tema 3\lab_gl_3_student\main.cpp(375): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\facultate\anul iii\semestrul i\egc\teme\tema 3\lab_gl_3_student\main.cpp(380): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\facultate\anul iii\semestrul i\egc\teme\tema 3\lab_gl_3_student\main.cpp(382): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\facultate\anul iii\semestrul i\egc\teme\tema 3\lab_gl_3_student\main.cpp(395): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\facultate\anul iii\semestrul i\egc\teme\tema 3\lab_gl_3_student\main.cpp(401): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\facultate\anul iii\semestrul i\egc\teme\tema 3\lab_gl_3_student\main.cpp(414): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\facultate\anul iii\semestrul i\egc\teme\tema 3\lab_gl_3_student\main.cpp(415): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\facultate\anul iii\semestrul i\egc\teme\tema 3\lab_gl_3_student\main.cpp(420): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\facultate\anul iii\semestrul i\egc\teme\tema 3\lab_gl_3_student\main.cpp(422): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\facultate\anul iii\semestrul i\egc\teme\tema 3\lab_gl_3_student\main.cpp(465): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\facultate\anul iii\semestrul i\egc\teme\tema 3\lab_gl_3_student\main.cpp(472): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\facultate\anul iii\semestrul i\egc\teme\tema 3\lab_gl_3_student\main.cpp(480): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\facultate\anul iii\semestrul i\egc\teme\tema 3\lab_gl_3_student\main.cpp(502): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\facultate\anul iii\semestrul i\egc\teme\tema 3\lab_gl_3_student\main.cpp(510): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\facultate\anul iii\semestrul i\egc\teme\tema 3\lab_gl_3_student\main.cpp(517): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\facultate\anul iii\semestrul i\egc\teme\tema 3\lab_gl_3_student\main.cpp(525): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\facultate\anul iii\semestrul i\egc\teme\tema 3\lab_gl_3_student\main.cpp(542): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>d:\facultate\anul iii\semestrul i\egc\teme\tema 3\lab_gl_3_student\main.cpp(634): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+       Link:
+         D:\Facultate\ProgramFiles\Visual Studio 2012\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"Debug\lab_gl_3.exe" /INCREMENTAL /NOLOGO /LIBPATH:dependente\freeglut /LIBPATH:dependente\glew opengl32.lib freeglut.lib glew32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"Debug\lab_gl_3.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"Debug\lab_gl_3.lib" /MACHINE:X86 Debug\Enemy.obj
+         Debug\Flag.obj
+         Debug\main.obj
+         Debug\Stadium.obj
+         Debug\TpsObject.obj
+         lab_gl_3.vcxproj -> D:\Facultate\Anul III\Semestrul I\EGC\Teme\Tema 3\lab_gl_3_student\Debug\lab_gl_3.exe
+     1>Done Building Project "D:\Facultate\Anul III\Semestrul I\EGC\Teme\Tema 3\lab_gl_3_student\lab_gl_3.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.82
